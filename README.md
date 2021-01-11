@@ -6,3 +6,5 @@ In this project, I implemented digital and analog cloks on VGA.
 - Alarm
 - Float on screen
 - Ascii table
+
+![image](https://user-images.githubusercontent.com/68936726/104220734-fafe0380-5450-11eb-9c84-bc559d98fbd5.png) 
